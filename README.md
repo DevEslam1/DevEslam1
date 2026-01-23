@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eslam Mahmoud 👋</h1>
+<h3 align="center">Flutter Developer | Mobile Engineer</h3>
 
-<!--
-**DevEslam1/DevEslam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DevEslam1">GitHub</a> •
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/deveslam-mahmoud/)">LinkedIn</a> •
+  <a href="mailto:xdev.eslam@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Flutter Developer with a background in Mechatronics Engineering.
+I build scalable, high-performance mobile applications with clean architecture and modern UI/UX.
+
+- 📱 Flutter & Dart
+- 🔥 Firebase
+- 🧠 Clean Architecture, Provider, MVVM
+- 🎨 UI/UX & Animations
+
+---
+
+## 🛠️ Tech Stack
+- Flutter, Dart
+- Firebase Auth, Firestore
+- REST APIs
+- Git & GitHub
+- CI/CD basics
+
+---
+
+## 📌 Featured Projects
+⬇️ See below

@@ -58,7 +58,7 @@ A simple news application built with **Flutter** that displays the latest headli
 
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" width="300" alt="Light Theme" /> | <img src="httpshttps://github.com/user-attachments/assets/9711d6fc-5734-4ee6-9b89-8b8c692c16ef" width="300" alt="Dark Theme" /> |
+| <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" width="300" alt="Light Theme" /> | <img src="https://github.com/user-attachments/assets/9711d6fc-5734-4ee6-9b89-8b8c692c16ef" width="300" alt="Dark Theme" /> |
 
 **Technologies:** Flutter, Dio, Provider, Shimmer
 

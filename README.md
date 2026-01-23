@@ -96,3 +96,27 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 
 [**View on GitHub**](https://github.com/DevEslam1/movie_app)
 </details>
+
+---
+
+## 📜 Licenses & Certifications
+
+<details>
+<summary><h3>Advanced Flutter UI and State Management</h3></summary>
+
+- **Issuing Organization:** Packt
+- **Issued:** Jan 2026
+- **Credential ID:** NZGLZ3SF50LF
+- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF)
+
+**Skills:** Flutter, State Management, and more.
+</details>
+
+<details>
+<summary><h3>Getting Started with Flutter & Dart</h3></summary>
+
+- **Issuing Organization:** Packt
+- **Issued:** Jan 2026
+- **Credential ID:** 1COJ0BVSKGQU
+- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU)
+</details>

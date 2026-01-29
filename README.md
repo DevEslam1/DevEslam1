@@ -27,7 +27,7 @@ Flutter Developer with a background in Mechatronics Engineering. I build scalabl
 
 ## 📄 My CV
 
-You can view my CV [here](Eslam_Mahmoud_CV_A4.html).
+You can view my CV [here](Eslam%20Mahmoud%20-%20Flutter%20Developer%20CV.pdf).
 
 ---
 

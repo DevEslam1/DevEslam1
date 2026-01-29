@@ -27,7 +27,7 @@ Flutter Developer with a background in Mechatronics Engineering. I build scalabl
 
 ## 📄 My CV
 
-You can view my CV here.
+You can view my CV [here](Eslam_Mahmoud_CV_A4.html).
 
 ---
 
@@ -54,7 +54,7 @@ A feature-rich e-commerce mobile application built with **Flutter**. It demonstr
 
 **Technologies:** Flutter, Firebase, Provider, Clean Architecture
 
-**View on GitHub**
+[**View on GitHub**](https://github.com/DevEslam1/ecommerce_app)
 </details>
 
 <details>
@@ -68,7 +68,7 @@ A simple news application built with **Flutter** that displays the latest headli
 
 **Technologies:** Flutter, Dio, Provider, Shimmer
 
-**View on GitHub**
+[**View on GitHub**](https://github.com/DevEslam1/news_app)
 </details>
 
 <details>
@@ -85,7 +85,7 @@ A Flutter project to display weather information, designed with a sleek, modern 
 
 **Technologies:** Flutter, Provider, Geolocator, HTTP
 
-**View on GitHub**
+[**View on GitHub**](https://github.com/DevEslam1/weather_app)
 </details>
 
 <details>
@@ -100,7 +100,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 
 **Technologies:** Flutter, Provider, Transparent Image
 
-**View on GitHub**
+[**View on GitHub**](https://github.com/DevEslam1/movie_app)
 </details>
 
 ---
@@ -113,7 +113,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issuing Organization:** Packt
 - **Issued:** Jan 2026
 - **Credential ID:** NZGLZ3SF50LF
-- **Show Credential**
+- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF)
 
 **Skills:** Flutter, State Management, and more.
 </details>
@@ -125,7 +125,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issued:** Jan 2026
 - **Certificate Number:** UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54
 - **Reference Number:** 0004
-- **Show Credential**
+- [**Show Credential**](https://ude.my/UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54)
 </details>
 
 <details>
@@ -134,5 +134,5 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issuing Organization:** Packt
 - **Issued:** Jan 2026
 - **Credential ID:** 1COJ0BVSKGQU
-- **Show Credential**
+- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU)
 </details>

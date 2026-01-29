@@ -2,15 +2,15 @@
 <h3 align="center">Flutter Developer | Mobile Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/DevEslam1">
+  
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deveslam-mahmoud/">
+  
+  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:xdev.eslam@gmail.com">
+  
+  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  
 </p>
 
 ---
@@ -27,7 +27,7 @@ Flutter Developer with a background in Mechatronics Engineering. I build scalabl
 
 ## 📄 My CV
 
-You can view my CV [here](Eslam_Mahmoud_CV_A4.html).
+You can view my CV here.
 
 ---
 
@@ -54,7 +54,7 @@ A feature-rich e-commerce mobile application built with **Flutter**. It demonstr
 
 **Technologies:** Flutter, Firebase, Provider, Clean Architecture
 
-[**View on GitHub**](https://github.com/DevEslam1/ecommerce_app)
+**View on GitHub**
 </details>
 
 <details>
@@ -68,7 +68,7 @@ A simple news application built with **Flutter** that displays the latest headli
 
 **Technologies:** Flutter, Dio, Provider, Shimmer
 
-[**View on GitHub**](https://github.com/DevEslam1/news_app)
+**View on GitHub**
 </details>
 
 <details>
@@ -85,7 +85,7 @@ A Flutter project to display weather information, designed with a sleek, modern 
 
 **Technologies:** Flutter, Provider, Geolocator, HTTP
 
-[**View on GitHub**](https://github.com/DevEslam1/weather_app)
+**View on GitHub**
 </details>
 
 <details>
@@ -100,7 +100,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 
 **Technologies:** Flutter, Provider, Transparent Image
 
-[**View on GitHub**](https://github.com/DevEslam1/movie_app)
+**View on GitHub**
 </details>
 
 ---
@@ -113,7 +113,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issuing Organization:** Packt
 - **Issued:** Jan 2026
 - **Credential ID:** NZGLZ3SF50LF
-- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF)
+- **Show Credential**
 
 **Skills:** Flutter, State Management, and more.
 </details>
@@ -125,7 +125,7 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issued:** Jan 2026
 - **Certificate Number:** UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54
 - **Reference Number:** 0004
-- [**Show Credential**](https://ude.my/UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54)
+- **Show Credential**
 </details>
 
 <details>
@@ -134,5 +134,5 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 - **Issuing Organization:** Packt
 - **Issued:** Jan 2026
 - **Credential ID:** 1COJ0BVSKGQU
-- [**Show Credential**](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU)
+- **Show Credential**
 </details>

@@ -119,6 +119,16 @@ A beautiful, high-performance Flutter application for exploring and discovering 
 </details>
 
 <details>
+<summary><h3>The Complete Flutter Development Bootcamp with Dart</h3></summary>
+
+- **Issuing Organization:** Udemy
+- **Issued:** Jan 2026
+- **Certificate Number:** UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54
+- **Reference Number:** 0004
+- [**Show Credential**](https://ude.my/UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54)
+</details>
+
+<details>
 <summary><h3>Getting Started with Flutter & Dart</h3></summary>
 
 - **Issuing Organization:** Packt

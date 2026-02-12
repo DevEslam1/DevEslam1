@@ -77,10 +77,10 @@ class EslamMahmoud extends FlutterDeveloper {
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%">
+    <td width="50%" align="center">
       <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" height="280" style="border-radius: 15px;" alt="Maysur Feature Graphic" />
     </td>
-    <td width="45%" align="left">
+    <td width="50%" align="left">
       <h3>🛍️ Maysur</h3>
       <p>A complete E-commerce ecosystem connecting buyers and sellers with a seamless mobile experience.</p>
       <p><strong>Tech Stack:</strong> Flutter, Dart, Clean Architecture</p>
@@ -96,10 +96,10 @@ class EslamMahmoud extends FlutterDeveloper {
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center">
+    <td width="50%" align="center">
       <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" height="280" style="border-radius: 15px;" alt="Free Zone Screenshot" />
     </td>
-    <td width="70%" align="left">
+    <td width="50%" align="left">
       <h3>🌐 Free Zone</h3>
       <p>A robust multi-vendor marketplace application facilitating diverse online shopping needs.</p>
       <p><strong>Tech Stack:</strong> Flutter, Dart, Provider</p>

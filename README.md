@@ -115,7 +115,7 @@ class EslamMahmoud extends FlutterDeveloper {
 
 ## 📌 Featured Projects
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>

@@ -77,7 +77,7 @@ class EslamMahmoud extends FlutterDeveloper {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,apple,linux,py" />
   <!-- Custom Icons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="48" width="48" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="44" width="44" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
 </div>
 
 ---

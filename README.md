@@ -73,29 +73,49 @@ class EslamMahmoud extends FlutterDeveloper {
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Published Applications
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="55%">
+      <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" width="100%" alt="Maysur Feature Graphic" />
+    </td>
+    <td width="45%" align="left">
       <h3>🛍️ Maysur</h3>
-      <p>A complete E-commerce solution connecting buyers and sellers.</p>
-      <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" width="100%" alt="Maysur App Screenshot"/>
-      <br/><br/>
+      <p>A complete E-commerce ecosystem connecting buyers and sellers with a seamless mobile experience.</p>
+      <p><strong>Tech Stack:</strong> Flutter, Dart, Clean Architecture</p>
+      <br/>
       <a href="https://play.google.com/store/apps/details?id=com.AlexEgel.Maysur&pcampaignid=web_share">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
       </a>
     </td>
-    <td width="50%" align="center">
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" width="100%" style="border-radius: 10px;" alt="Free Zone Screenshot" />
+    </td>
+    <td width="70%" align="left">
       <h3>🌐 Free Zone</h3>
-      <p>Multi-vendor marketplace app for seamless online shopping.</p>
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" width="100%" alt="Free Zone App Screenshot"/>
-      <br/><br/>
+      <p>A robust multi-vendor marketplace application facilitating diverse online shopping needs.</p>
+      <p><strong>Tech Stack:</strong> Flutter, Dart, Provider</p>
+      <br/>
       <a href="https://apps.apple.com/us/app/free-zone/id6754777406">
         <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
       </a>
     </td>
   </tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+<table border="0">
   <tr>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>

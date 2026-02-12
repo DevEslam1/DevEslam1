@@ -75,11 +75,7 @@ class EslamMahmoud extends FlutterDeveloper {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px"> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,chatgpt,postman" />
-  <!-- Custom Icons for unsupported tools -->
-  <img src="https://img.shields.io/badge/AG-8A2BE2?style=for-the-badge&logoColor=white" alt="Antigravity" height="48" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" height="48" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white" alt="Gemini" height="48" style="border-radius: 12px;" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,apple,linux,py" />
 </div>
 
 ---

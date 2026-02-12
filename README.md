@@ -90,11 +90,6 @@ class EslamMahmoud extends FlutterDeveloper {
       </a>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" height="280" style="border-radius: 15px;" alt="Free Zone Screenshot" />

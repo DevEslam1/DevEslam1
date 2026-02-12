@@ -111,6 +111,9 @@ class EslamMahmoud extends FlutterDeveloper {
       <a href="https://apps.apple.com/us/app/free-zone/id6754777406">
         <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
       </a>
+      <a href="https://play.google.com/store/apps/details?id=com.hsolutions.freezone">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>

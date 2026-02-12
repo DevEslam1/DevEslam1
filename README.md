@@ -78,7 +78,7 @@ class EslamMahmoud extends FlutterDeveloper {
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" width="100%" alt="Maysur Feature Graphic" />
+      <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" height="280" style="border-radius: 15px;" alt="Maysur Feature Graphic" />
     </td>
     <td width="45%" align="left">
       <h3>🛍️ Maysur</h3>
@@ -97,7 +97,7 @@ class EslamMahmoud extends FlutterDeveloper {
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" width="100%" style="border-radius: 10px;" alt="Free Zone Screenshot" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" height="280" style="border-radius: 15px;" alt="Free Zone Screenshot" />
     </td>
     <td width="70%" align="left">
       <h3>🌐 Free Zone</h3>
@@ -120,7 +120,7 @@ class EslamMahmoud extends FlutterDeveloper {
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
-      <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" width="100%" alt="Light Mode Screenshot"/>
+      <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
       <br/><br/>
       <a href="https://github.com/DevEslam1/ecommerce_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -129,7 +129,7 @@ class EslamMahmoud extends FlutterDeveloper {
     <td width="50%" align="center">
       <h3>📰 News App</h3>
       <p>Displays latest headlines using NewsAPI with Dio & Shimmer.</p>
-      <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" width="100%" alt="Light Theme"/>
+      <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" height="280" style="border-radius: 15px;" alt="Light Theme"/>
       <br/><br/>
       <a href="https://github.com/DevEslam1/news_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -140,7 +140,7 @@ class EslamMahmoud extends FlutterDeveloper {
     <td width="50%" align="center">
       <h3>🌤️ Weather App</h3>
       <p>Sleek space-themed weather app using Geolocator & Provider.</p>
-      <img src="https://github.com/user-attachments/assets/764c89b0-418f-48d6-ade3-bd949da6ed44" width="100%" alt="Weather App"/>
+      <img src="https://github.com/user-attachments/assets/764c89b0-418f-48d6-ade3-bd949da6ed44" height="280" style="border-radius: 15px;" alt="Weather App"/>
       <br/><br/>
       <a href="https://github.com/DevEslam1/weather_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -149,7 +149,7 @@ class EslamMahmoud extends FlutterDeveloper {
     <td width="50%" align="center">
       <h3>🎬 Movie App</h3>
       <p>Discover movies with beautiful UI, searching & browsing.</p>
-      <img src="https://github.com/user-attachments/assets/e14c3f42-a165-42f6-9fb1-8e2f5d44e2ce" width="100%" alt="Movie App"/>
+      <img src="https://github.com/user-attachments/assets/e14c3f42-a165-42f6-9fb1-8e2f5d44e2ce" height="280" style="border-radius: 15px;" alt="Movie App"/>
       <br/><br/>
       <a href="https://github.com/DevEslam1/movie_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />

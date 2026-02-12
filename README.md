@@ -78,6 +78,26 @@ class EslamMahmoud extends FlutterDeveloper {
 <table border="0">
   <tr>
     <td width="50%" align="center">
+      <h3>🛍️ Maysur</h3>
+      <p>A complete E-commerce solution connecting buyers and sellers.</p>
+      <img src="https://placehold.co/600x400/0e75b6/fff?text=Maysur+App" width="100%" alt="Maysur App Screenshot"/>
+      <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.AlexEgel.Maysur&pcampaignid=web_share">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Free Zone</h3>
+      <p>Multi-vendor marketplace app for seamless online shopping.</p>
+      <img src="https://placehold.co/600x400/0e75b6/fff?text=Free+Zone+App" width="100%" alt="Free Zone App Screenshot"/>
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/free-zone/id6754777406">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
       <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" width="100%" alt="Light Mode Screenshot"/>

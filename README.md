@@ -76,6 +76,11 @@ class EslamMahmoud extends FlutterDeveloper {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,apple,linux,py" />
+  <!-- Custom Icons -->
+  <img src="https://placehold.co/48x48/8A2BE2/ffffff?text=AG" title="Antigravity" height="48" width="48" style="border-radius: 12px; margin: 2px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" title="Coursera" height="48" width="48" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="48" width="48" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" title="Gemini" height="48" width="48" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
 </div>
 
 ---

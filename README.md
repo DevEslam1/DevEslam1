@@ -8,6 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=DevEslam1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/DevEslam1?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/DevEslam1?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <br/>
+  <a href="https://www.linkedin.com/in/deveslam-mahmoud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:xdev.eslam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---

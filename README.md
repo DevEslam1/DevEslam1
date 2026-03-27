@@ -15,13 +15,18 @@
   <a href="mailto:xdev.eslam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="./Eslam Mahmoud - Flutter Developer CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
 </div>
 
 ---
 
 ## 📖 Table of Contents
 - [About Me](#-about-me)
+- [Skills](#-skills--expertise)
 - [Tech Stack](#-tech-stack)
+- [Published Apps](#-published-applications)
 - [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-analytics)
 - [Certifications](#-licenses--certifications)
@@ -37,12 +42,18 @@
 class EslamMahmoud extends FlutterDeveloper {
   final String role = "Flutter Developer & Mobile Engineer";
   final String background = "Mechatronics Engineering";
+  final String location = "Egypt 🇪🇬";
+  final int yearsOfExperience = 2;
   final List<String> expertise = [
     "Mobile App Development",
     "Clean Architecture",
     "UI/UX & Animations",
     "Firebase Integration",
     "State Management",
+  ];
+  final List<String> favoritePackages = [
+    "flutter_bloc", "dio", "get_it",
+    "freezed", "go_router", "hive",
   ];
 
   void introduce() {
@@ -72,6 +83,25 @@ class EslamMahmoud extends FlutterDeveloper {
 
 ---
 
+## 📈 Skills & Expertise
+
+<div align="center">
+
+```
+Flutter        ████████████████████░   95%
+Dart           ████████████████████░   95%
+Firebase       █████████████████░░░░   85%
+Clean Arch     █████████████████░░░░   85%
+State Mgmt     ████████████████░░░░░   80%
+UI/UX Design   ████████████████░░░░░   80%
+Git & CI/CD    ███████████████░░░░░░   75%
+REST APIs      █████████████████░░░░   85%
+```
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px"> Tech Stack
 
 <div align="center">
@@ -79,6 +109,8 @@ class EslamMahmoud extends FlutterDeveloper {
   <!-- Custom Icons -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="44" width="44" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
 </div>
+
+> 💡 **Pro Tip:** I also track my coding time with [WakaTime](https://wakatime.com/) to optimize productivity and stay consistent!
 
 ---
 
@@ -122,25 +154,35 @@ class EslamMahmoud extends FlutterDeveloper {
 
 ## 📌 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/DevEslam1/ecommerce_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=ecommerce_app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevEslam1/news_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=news_app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevEslam1/weather_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=weather_app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevEslam1/movie_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=movie_app&theme=tokyonight" />
+  </a>
+</div>
+
+<details>
+<summary><strong>📸 Project Screenshots</strong></summary>
+<br/>
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
       <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/ecommerce_app">
-        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-      </a>
     </td>
     <td width="50%" align="center">
       <h3>📰 News App</h3>
       <p>Displays latest headlines using NewsAPI with Dio & Shimmer.</p>
       <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" height="280" style="border-radius: 15px;" alt="Light Theme"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/news_app">
-        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-      </a>
     </td>
   </tr>
   <tr>
@@ -148,22 +190,15 @@ class EslamMahmoud extends FlutterDeveloper {
       <h3>🌤️ Weather App</h3>
       <p>Sleek space-themed weather app using Geolocator & Provider.</p>
       <img src="https://github.com/user-attachments/assets/764c89b0-418f-48d6-ade3-bd949da6ed44" height="280" style="border-radius: 15px;" alt="Weather App"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/weather_app">
-        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-      </a>
     </td>
     <td width="50%" align="center">
       <h3>🎬 Movie App</h3>
       <p>Discover movies with beautiful UI, searching & browsing.</p>
       <img src="https://github.com/user-attachments/assets/e14c3f42-a165-42f6-9fb1-8e2f5d44e2ce" height="280" style="border-radius: 15px;" alt="Movie App"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/movie_app">
-        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-      </a>
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
@@ -176,6 +211,10 @@ class EslamMahmoud extends FlutterDeveloper {
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEslam1&theme=tokyonight" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevEslam1&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -190,6 +229,10 @@ class EslamMahmoud extends FlutterDeveloper {
 
 ## 📜 Licenses & Certifications
 
+<details>
+<summary><strong>🎓 Click to expand all certifications</strong></summary>
+<br/>
+
 | Credential | Issued | Link |
 |:---|:---:|:---:|
 | **Advanced Flutter UI & State Management** | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF) |
@@ -199,7 +242,20 @@ class EslamMahmoud extends FlutterDeveloper {
 | **Meta React Native Specialization: Programming with JavaScript**<br/><details><summary>What you'll learn</summary><ul><li>Creating simple JavaScript codes</li><li>Creating and manipulating objects and arrays</li><li>Writing unit tests using Jest</li></ul><summary>Skills gained</summary><ul><li>Javascript</li><li>JSON</li><li>Object Oriented Programming (OOP)</li><li>Node.JS</li><li>Unit Testing</li><li>Jest (JavaScript Testing Framework)</li><li>Package and Software Management</li><li>Computer Programming</li><li>Functional Design</li><li>Scripting</li><li>Program Development</li><li>Test Case</li><li>Scripting Languages</li><li>Debugging</li><li>Front-End Web Development</li><li>Data Structures</li><li>Programming Principles</li><li>Web Development Tools</li><li>Event-Driven Programming</li></ul></details> | Mar 2026 | [Verify](https://coursera.org/share/4d71a11bdb6c035b8f7982b2e7ed94f5) |
 | **Succeed in the Age of AI**<br/><details><summary>What you'll learn</summary><ul><li>Use AI tools confidently to accelerate everyday tasks</li><li>Master practical AI workflows</li><li>Write better code with AI assistance</li><li>Design effective prompts</li><li>Build an AI-augmented learning system</li><li>Automate repetitive tasks</li><li>Improve decision-making with AI</li><li>Develop a personal AI workflow</li></ul></details> | Feb 2026 | [Upcoming] |
 
+</details>
+
 ---
+
+<!-- 📝 BLOG POSTS SECTION (Optional - Uncomment & set up GitHub Action to auto-populate)
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- To set this up:
+1. Create a blog on dev.to, hashnode, or medium
+2. Add the blog-post-workflow GitHub Action:
+   https://github.com/gautamkrishnar/blog-post-workflow
+3. It will auto-update this section with your latest posts!
+-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Connect With Me
 

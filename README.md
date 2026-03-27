@@ -154,35 +154,25 @@ REST APIs      █████████████████░░░░  
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/DevEslam1/ecommerce_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=ecommerce_app&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DevEslam1/news_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=news_app&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DevEslam1/weather_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=weather_app&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DevEslam1/movie_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevEslam1&repo=movie_app&theme=tokyonight" />
-  </a>
-</div>
-
-<details>
-<summary><strong>📸 Project Screenshots</strong></summary>
-<br/>
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
       <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
+      <br/><br/>
+      <a href="https://github.com/DevEslam1/ecommerce_app">
+        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+      </a>
     </td>
     <td width="50%" align="center">
       <h3>📰 News App</h3>
       <p>Displays latest headlines using NewsAPI with Dio & Shimmer.</p>
       <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" height="280" style="border-radius: 15px;" alt="Light Theme"/>
+      <br/><br/>
+      <a href="https://github.com/DevEslam1/news_app">
+        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -190,27 +180,40 @@ REST APIs      █████████████████░░░░  
       <h3>🌤️ Weather App</h3>
       <p>Sleek space-themed weather app using Geolocator & Provider.</p>
       <img src="https://github.com/user-attachments/assets/764c89b0-418f-48d6-ade3-bd949da6ed44" height="280" style="border-radius: 15px;" alt="Weather App"/>
+      <br/><br/>
+      <a href="https://github.com/DevEslam1/weather_app">
+        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+      </a>
     </td>
     <td width="50%" align="center">
       <h3>🎬 Movie App</h3>
       <p>Discover movies with beautiful UI, searching & browsing.</p>
       <img src="https://github.com/user-attachments/assets/e14c3f42-a165-42f6-9fb1-8e2f5d44e2ce" height="280" style="border-radius: 15px;" alt="Movie App"/>
+      <br/><br/>
+      <a href="https://github.com/DevEslam1/movie_app">
+        <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+      </a>
     </td>
   </tr>
 </table>
-</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEslam1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEslam1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/DevEslam1">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevEslam1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/DevEslam1">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevEslam1&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEslam1&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/DevEslam1">
+    <img src="https://streak-stats.demolab.com/?user=DevEslam1&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 <br/>
 <div align="center">

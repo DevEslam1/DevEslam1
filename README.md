@@ -1,7 +1,7 @@
 # Hi there, I'm Eslam Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Engineer;Mechatronics+Engineering+Background;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Native+Developer;Mobile+Engineer;AI-Augmented+Development;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,33 +39,37 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" height="200px"/>
 
 ```dart
-class EslamMahmoud extends FlutterDeveloper {
-  final String role = "Flutter Developer & Mobile Engineer";
+class EslamMahmoud extends MobileDeveloper {
+  final String role = "Flutter & React Native Developer";
   final String background = "Mechatronics Engineering";
-  final String location = "Egypt 🇪🇬";
-  final int yearsOfExperience = 2;
+  final String location = "Cairo, Egypt 🇪🇬";
+  final String currentInternship = "Nile University (Misr Bank)";
+  final List<String> frameworks = ["Flutter", "React Native"];
+  final List<String> languages = ["Dart", "JavaScript"];
   final List<String> expertise = [
-    "Mobile App Development",
-    "Clean Architecture",
-    "UI/UX & Animations",
+    "Cross-Platform Mobile Development",
+    "Clean Architecture & BLoC",
+    "AI-Augmented Development & MCP Tools",
     "Firebase Integration",
-    "State Management",
+    "UI/UX & Animations",
   ];
-  final List<String> favoritePackages = [
-    "flutter_bloc", "dio", "get_it",
-    "freezed", "go_router", "hive",
+  final List<String> aiToolkit = [
+    "Gemini", "ChatGPT", "Claude",
+    "MCP Servers", "AI Agents",
+    "Prompt Engineering",
   ];
 
   void introduce() {
-    print("Building scalable, high-performance mobile apps!");
+    print("Building scalable apps with AI-powered workflows!");
   }
 }
 ```
 
-🚀 **Currently working on:** Scalable Flutter applications with clean architecture  
-🌱 **Learning:** Advanced Flutter patterns, BLoC, and CI/CD pipelines  
-👯 **Looking to collaborate on:** Open source Flutter projects  
-⚡ **Fun fact:** Mechatronics engineer turned mobile developer!
+🚀 **Currently working on:** Cross-platform mobile apps with Flutter & React Native  
+🏢 **Internship:** Nile University, Cairo — sponsored by Misr Bank  
+🤖 **AI Expertise:** Advanced AI tools, MCP servers, and AI-augmented development workflows  
+🌱 **Learning:** React Native ecosystem, advanced Flutter patterns, and CI/CD  
+⚡ **Fun fact:** Mechatronics engineer turned AI-powered mobile developer!
 
 ---
 
@@ -73,11 +77,11 @@ class EslamMahmoud extends FlutterDeveloper {
 
 <div align="center">
 
-| 🔥 **Hot Topics** | 📱 **Mobile Development** | 🏗️ **Architecture** |
+| 🔥 **Hot Topics** | 📱 **Mobile Development** | 🤖 **AI & Tooling** |
 |:---:|:---:|:---:|
-| Flutter 3.x Features | Cross-platform Apps | Clean Architecture |
-| State Management | UI/UX & Animations | MVVM Pattern |
-| Performance Optimization | Firebase Integration | Scalable Codebases |
+| Flutter & React Native | Cross-platform Apps | AI-Augmented Dev |
+| State Management | UI/UX & Animations | MCP Tools & Agents |
+| Performance Optimization | Firebase Integration | Prompt Engineering |
 
 </div>
 
@@ -88,14 +92,15 @@ class EslamMahmoud extends FlutterDeveloper {
 <div align="center">
 
 ```
-Flutter        ████████████████████░   95%
-Dart           ████████████████████░   95%
-Firebase       █████████████████░░░░   85%
-Clean Arch     █████████████████░░░░   85%
-State Mgmt     ████████████████░░░░░   80%
-UI/UX Design   ████████████████░░░░░   80%
-Git & CI/CD    ███████████████░░░░░░   75%
-REST APIs      █████████████████░░░░   85%
+Flutter         ████████████████████░   95%
+Dart            ████████████████████░   95%
+React Native    ██████████████░░░░░░░   70%
+JavaScript      ██████████████░░░░░░░   70%
+Firebase        █████████████████░░░░   85%
+Clean Arch      █████████████████░░░░   85%
+AI Tools & MCP  ██████████████████░░░   90%
+REST APIs       █████████████████░░░░   85%
+Git & CI/CD     ███████████████░░░░░░   75%
 ```
 
 </div>
@@ -105,12 +110,10 @@ REST APIs      █████████████████░░░░  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px"> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,apple,linux,py" />
-  <!-- Custom Icons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="44" width="44" style="border-radius: 12px; margin: 2px; background-color: white; padding: 2px;" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,firebase,figma,kotlin,swift,git,github,vscode,androidstudio,apple,linux,py" />
 </div>
 
-> 💡 **Pro Tip:** I also track my coding time with [WakaTime](https://wakatime.com/) to optimize productivity and stay consistent!
+> 🤖 **AI-Powered Development:** I leverage advanced AI tools (Gemini, ChatGPT, Claude), MCP servers, and AI agents to supercharge planning, architecture, and development workflows.
 
 ---
 

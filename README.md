@@ -38,6 +38,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" height="200px"/>
 
+> **Cross-platform Mobile Developer with 1+ year of hands-on experience** building scalable applications using Flutter, React Native, and Clean Architecture. Published production-ready apps on the App Store and Google Play, with a strong focus on performance optimization, maintainability, and exceptional UI/UX.
+
 ```dart
 class EslamMahmoud extends MobileDeveloper {
   final String role = "Flutter & React Native Developer";

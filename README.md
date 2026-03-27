@@ -15,7 +15,7 @@
   <a href="mailto:xdev.eslam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="./Eslam Mahmoud - Flutter Developer CV.pdf">
+  <a href="./Eslam_Mahmoud_ Mobile Dev.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </div>
@@ -23,6 +23,7 @@
 ---
 
 ## 📖 Table of Contents
+
 - [About Me](#-about-me)
 - [Skills](#-skills--expertise)
 - [Tech Stack](#-tech-stack)
@@ -79,11 +80,11 @@ class EslamMahmoud extends MobileDeveloper {
 
 <div align="center">
 
-| 🔥 **Hot Topics** | 📱 **Mobile Development** | 🤖 **AI & Tooling** |
-|:---:|:---:|:---:|
-| Flutter & React Native | Cross-platform Apps | AI-Augmented Dev |
-| State Management | UI/UX & Animations | MCP Tools & Agents |
-| Performance Optimization | Firebase Integration | Prompt Engineering |
+|    🔥 **Hot Topics**     | 📱 **Mobile Development** | 🤖 **AI & Tooling** |
+| :----------------------: | :-----------------------: | :-----------------: |
+|  Flutter & React Native  |    Cross-platform Apps    |  AI-Augmented Dev   |
+|     State Management     |    UI/UX & Animations     | MCP Tools & Agents  |
+| Performance Optimization |   Firebase Integration    | Prompt Engineering  |
 
 </div>
 
@@ -241,14 +242,14 @@ Git & CI/CD     ███████████████░░░░░░ 
 <summary><strong>🎓 Click to expand all certifications</strong></summary>
 <br/>
 
-| Credential | Issued | Link |
-|:---|:---:|:---:|
-| **Advanced Flutter UI & State Management** | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF) |
-| **Complete Flutter Development Bootcamp** | Jan 2026 | [Verify](https://ude.my/UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54) |
-| **Getting Started with Flutter & Dart** | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU) |
-| **Meta React Native Specialization: Introduction to Mobile Development**<br/><details><summary>What you'll learn</summary><ul><li>The role of a cross-platform mobile developer</li><li>Creating a simple webpage using HTML5</li><li>Styling a web page using CSS</li><li>Explaining React and React Native</li></ul><summary>Skills gained</summary><ul><li>HTML and CSS</li><li>Mobile Development</li><li>React Native</li><li>Application Development</li><li>Web Development</li><li>Browser Compatibility</li><li>Web Design and Development</li><li>Cross Platform Development</li><li>Javascript</li><li>Responsive Web Design</li></ul></details> | Mar 2026 | [Verify](https://coursera.org/share/4b72cf9201759994cf04391571118aab) |
-| **Meta React Native Specialization: Programming with JavaScript**<br/><details><summary>What you'll learn</summary><ul><li>Creating simple JavaScript codes</li><li>Creating and manipulating objects and arrays</li><li>Writing unit tests using Jest</li></ul><summary>Skills gained</summary><ul><li>Javascript</li><li>JSON</li><li>Object Oriented Programming (OOP)</li><li>Node.JS</li><li>Unit Testing</li><li>Jest (JavaScript Testing Framework)</li><li>Package and Software Management</li><li>Computer Programming</li><li>Functional Design</li><li>Scripting</li><li>Program Development</li><li>Test Case</li><li>Scripting Languages</li><li>Debugging</li><li>Front-End Web Development</li><li>Data Structures</li><li>Programming Principles</li><li>Web Development Tools</li><li>Event-Driven Programming</li></ul></details> | Mar 2026 | [Verify](https://coursera.org/share/4d71a11bdb6c035b8f7982b2e7ed94f5) |
-| **Succeed in the Age of AI**<br/><details><summary>What you'll learn</summary><ul><li>Use AI tools confidently to accelerate everyday tasks</li><li>Master practical AI workflows</li><li>Write better code with AI assistance</li><li>Design effective prompts</li><li>Build an AI-augmented learning system</li><li>Automate repetitive tasks</li><li>Improve decision-making with AI</li><li>Develop a personal AI workflow</li></ul></details> | Feb 2026 | [Upcoming] |
+| Credential                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |  Issued  |                                      Link                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :----------------------------------------------------------------------------: |
+| **Advanced Flutter UI & State Management**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/NZGLZ3SF50LF) |
+| **Complete Flutter Development Bootcamp**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Jan 2026 |        [Verify](https://ude.my/UC-3fe14c29-da6c-4a5e-b802-0c2adedf8a54)        |
+| **Getting Started with Flutter & Dart**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU) |
+| **Meta React Native Specialization: Introduction to Mobile Development**<br/><details><summary>What you'll learn</summary><ul><li>The role of a cross-platform mobile developer</li><li>Creating a simple webpage using HTML5</li><li>Styling a web page using CSS</li><li>Explaining React and React Native</li></ul><summary>Skills gained</summary><ul><li>HTML and CSS</li><li>Mobile Development</li><li>React Native</li><li>Application Development</li><li>Web Development</li><li>Browser Compatibility</li><li>Web Design and Development</li><li>Cross Platform Development</li><li>Javascript</li><li>Responsive Web Design</li></ul></details>                                                                                                                                                                                         | Mar 2026 |     [Verify](https://coursera.org/share/4b72cf9201759994cf04391571118aab)      |
+| **Meta React Native Specialization: Programming with JavaScript**<br/><details><summary>What you'll learn</summary><ul><li>Creating simple JavaScript codes</li><li>Creating and manipulating objects and arrays</li><li>Writing unit tests using Jest</li></ul><summary>Skills gained</summary><ul><li>Javascript</li><li>JSON</li><li>Object Oriented Programming (OOP)</li><li>Node.JS</li><li>Unit Testing</li><li>Jest (JavaScript Testing Framework)</li><li>Package and Software Management</li><li>Computer Programming</li><li>Functional Design</li><li>Scripting</li><li>Program Development</li><li>Test Case</li><li>Scripting Languages</li><li>Debugging</li><li>Front-End Web Development</li><li>Data Structures</li><li>Programming Principles</li><li>Web Development Tools</li><li>Event-Driven Programming</li></ul></details> | Mar 2026 |     [Verify](https://coursera.org/share/4d71a11bdb6c035b8f7982b2e7ed94f5)      |
+| **Succeed in the Age of AI**<br/><details><summary>What you'll learn</summary><ul><li>Use AI tools confidently to accelerate everyday tasks</li><li>Master practical AI workflows</li><li>Write better code with AI assistance</li><li>Design effective prompts</li><li>Build an AI-augmented learning system</li><li>Automate repetitive tasks</li><li>Improve decision-making with AI</li><li>Develop a personal AI workflow</li></ul></details>                                                                                                                                                                                                                                                                                                                                                                                                  | Feb 2026 |                                   [Upcoming]                                   |
 
 </details>
 
@@ -269,9 +270,9 @@ Git & CI/CD     ███████████████░░░░░░ 
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevEslam1)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveslam-mahmoud/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdev.eslam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevEslam1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveslam-mahmoud/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdev.eslam@gmail.com)
 
 </div>
 

@@ -225,7 +225,7 @@ REST APIs      █████████████████░░░░  
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevEslam1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=DevEslam1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---

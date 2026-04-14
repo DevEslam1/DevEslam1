@@ -15,7 +15,7 @@
   <a href="mailto:xdev.eslam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="./Eslam_Mahmoud_ Mobile Dev.pdf">
+  <a href="./Eslam_Mahmoud_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </div>
@@ -39,14 +39,14 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" height="200px"/>
 
-> **Cross-platform Mobile Developer with 1+ year of hands-on experience** building scalable applications using Flutter, React Native, and Clean Architecture. Published production-ready apps on the App Store and Google Play, with a strong focus on performance optimization, maintainability, and exceptional UI/UX.
+> **Results-driven Mobile Developer with hands-on experience** building scalable, cross-platform applications using Flutter and React Native. Proven track record of publishing production-ready apps on the App Store and Google Play (Maysur, Free Zone). Specialized in implementing Clean Architecture, reactive state management (BLoC, Redux), and premium UI/UX design. Highly proficient in leveraging AI-augmented development workflows to accelerate development cycles.
 
 ```dart
 class EslamMahmoud extends MobileDeveloper {
   final String role = "Flutter & React Native Developer";
   final String background = "Mechatronics Engineering";
-  final String location = "Cairo, Egypt 🇪🇬";
-  final String currentInternship = "Nile University (Misr Bank)";
+  final String location = "Mansoura, Egypt 🇪🇬";
+  final String currentInternship = "Nile University (Banque Misr)";
   final List<String> frameworks = ["Flutter", "React Native"];
   final List<String> languages = ["Dart", "JavaScript"];
   final List<String> expertise = [
@@ -69,7 +69,7 @@ class EslamMahmoud extends MobileDeveloper {
 ```
 
 🚀 **Currently working on:** Cross-platform mobile apps with Flutter & React Native  
-🏢 **Internship:** Nile University, Cairo — sponsored by Misr Bank  
+🏢 **Internship:** Nile University, Mansoura — sponsored by Banque Misr  
 🤖 **AI Expertise:** Advanced AI tools, MCP servers, and AI-augmented development workflows  
 🌱 **Learning:** React Native ecosystem, advanced Flutter patterns, and CI/CD  
 ⚡ **Fun fact:** Mechatronics engineer turned AI-powered mobile developer!
@@ -163,40 +163,40 @@ Git & CI/CD     ███████████████░░░░░░ 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🛒 E-Commerce App</h3>
-      <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
-      <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/ecommerce_app">
+      <h3>✨ NovaStore</h3>
+      <p>Premium e-commerce app with Clean Architecture, Glassmorphism design system, Material 3 theming, and full Firebase backend.</p>
+      <p><strong>Tech Stack:</strong> Flutter, Dart, Firebase, BLoC</p>
+      <br/>
+      <a href="https://github.com/DevEslam1/NovaStore">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>📰 News App</h3>
-      <p>Displays latest headlines using NewsAPI with Dio & Shimmer.</p>
-      <img src="https://github.com/user-attachments/assets/c06369aa-f18a-4fa6-ba3e-8d6bf6098d97" height="280" style="border-radius: 15px;" alt="Light Theme"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/news_app">
+      <h3>🎵 BeatFlow</h3>
+      <p>Advanced music player with Deezer API streaming, local audio scanning, background playback & lock screen controls.</p>
+      <p><strong>Tech Stack:</strong> React Native, Expo, Context API</p>
+      <br/>
+      <a href="https://github.com/DevEslam1/BeatFlow_Music">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🌤️ Weather App</h3>
-      <p>Sleek space-themed weather app using Geolocator & Provider.</p>
-      <img src="https://github.com/user-attachments/assets/764c89b0-418f-48d6-ade3-bd949da6ed44" height="280" style="border-radius: 15px;" alt="Weather App"/>
-      <br/><br/>
-      <a href="https://github.com/DevEslam1/weather_app">
+      <h3>🔄 DevSync</h3>
+      <p>Team collaboration platform with interactive dashboards, Agile Kanban boards, and real-time team chat.</p>
+      <p><strong>Tech Stack:</strong> Flutter, Firebase, BLoC, Clean Architecture</p>
+      <br/>
+      <a href="https://github.com/DevEslam1/DevSync">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>🎬 Movie App</h3>
-      <p>Discover movies with beautiful UI, searching & browsing.</p>
-      <img src="https://github.com/user-attachments/assets/e14c3f42-a165-42f6-9fb1-8e2f5d44e2ce" height="280" style="border-radius: 15px;" alt="Movie App"/>
+      <h3>🛒 E-Commerce App</h3>
+      <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
+      <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
       <br/><br/>
-      <a href="https://github.com/DevEslam1/movie_app">
+      <a href="https://github.com/DevEslam1/ecommerce_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
     </td>
@@ -249,6 +249,7 @@ Git & CI/CD     ███████████████░░░░░░ 
 | **Getting Started with Flutter & Dart**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU) |
 | **Meta React Native Specialization: Introduction to Mobile Development**<br/><details><summary>What you'll learn</summary><ul><li>The role of a cross-platform mobile developer</li><li>Creating a simple webpage using HTML5</li><li>Styling a web page using CSS</li><li>Explaining React and React Native</li></ul><summary>Skills gained</summary><ul><li>HTML and CSS</li><li>Mobile Development</li><li>React Native</li><li>Application Development</li><li>Web Development</li><li>Browser Compatibility</li><li>Web Design and Development</li><li>Cross Platform Development</li><li>Javascript</li><li>Responsive Web Design</li></ul></details>                                                                                                                                                                                         | Mar 2026 |     [Verify](https://coursera.org/share/4b72cf9201759994cf04391571118aab)      |
 | **Meta React Native Specialization: Programming with JavaScript**<br/><details><summary>What you'll learn</summary><ul><li>Creating simple JavaScript codes</li><li>Creating and manipulating objects and arrays</li><li>Writing unit tests using Jest</li></ul><summary>Skills gained</summary><ul><li>Javascript</li><li>JSON</li><li>Object Oriented Programming (OOP)</li><li>Node.JS</li><li>Unit Testing</li><li>Jest (JavaScript Testing Framework)</li><li>Package and Software Management</li><li>Computer Programming</li><li>Functional Design</li><li>Scripting</li><li>Program Development</li><li>Test Case</li><li>Scripting Languages</li><li>Debugging</li><li>Front-End Web Development</li><li>Data Structures</li><li>Programming Principles</li><li>Web Development Tools</li><li>Event-Driven Programming</li></ul></details> | Mar 2026 |     [Verify](https://coursera.org/share/4d71a11bdb6c035b8f7982b2e7ed94f5)      |
+| **Meta React Native Specialization: React Native** | Mar 2026 | 🔄 In Progress |
 | **Succeed in the Age of AI**<br/><details><summary>What you'll learn</summary><ul><li>Use AI tools confidently to accelerate everyday tasks</li><li>Master practical AI workflows</li><li>Write better code with AI assistance</li><li>Design effective prompts</li><li>Build an AI-augmented learning system</li><li>Automate repetitive tasks</li><li>Improve decision-making with AI</li><li>Develop a personal AI workflow</li></ul></details>                                                                                                                                                                                                                                                                                                                                                                                                  | Feb 2026 |                                   [Upcoming]                                   |
 
 </details>

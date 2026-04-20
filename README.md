@@ -125,7 +125,7 @@ Git & CI/CD     ███████████████░░░░░░ 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./new/Maysur.svg" height="280" style="border-radius: 15px;" alt="Maysur Preview" />
+      <img src="./assets/Maysur.svg" height="280" style="border-radius: 15px;" alt="Maysur Preview" />
     </td>
     <td width="50%" align="left">
       <h3>🛍️ Maysur</h3>
@@ -139,7 +139,7 @@ Git & CI/CD     ███████████████░░░░░░ 
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./new/freezone.svg" height="280" style="border-radius: 15px;" alt="Free Zone Preview" />
+      <img src="./assets/freezone.svg" height="280" style="border-radius: 15px;" alt="Free Zone Preview" />
     </td>
     <td width="50%" align="left">
       <h3>🌐 Free Zone</h3>
@@ -166,7 +166,7 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>✨ NovaStore</h3>
       <p>Premium e-commerce app with Clean Architecture, Glassmorphism design system, Material 3 theming, and full Firebase backend.</p>
       <p><strong>Tech Stack:</strong> Flutter, Dart, Firebase, BLoC</p>
-      <img src="./new/novastore.svg" height="280" style="border-radius: 15px;" alt="NovaStore Preview" />
+      <img src="./assets/novastore.svg" height="280" style="border-radius: 15px;" alt="NovaStore Preview" />
       <br/><br/>
       <a href="https://github.com/DevEslam1/NovaStore">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -176,7 +176,7 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>🎵 BeatFlow</h3>
       <p>Advanced music player with Deezer API streaming, local audio scanning, background playback & lock screen controls.</p>
       <p><strong>Tech Stack:</strong> React Native, Expo, Context API</p>
-      <img src="./new/Beatflow.svg" height="280" style="border-radius: 15px;" alt="BeatFlow Preview" />
+      <img src="./assets/Beatflow.svg" height="280" style="border-radius: 15px;" alt="BeatFlow Preview" />
       <br/><br/>
       <a href="https://github.com/DevEslam1/BeatFlow_Music">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -188,7 +188,7 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>🔄 DevSync</h3>
       <p>Team collaboration platform with interactive dashboards, Agile Kanban boards, and real-time team chat.</p>
       <p><strong>Tech Stack:</strong> Flutter, Firebase, BLoC, Clean Architecture</p>
-      <img src="./new/DevSync.svg" height="280" style="border-radius: 15px;" alt="DevSync Preview" />
+      <img src="./assets/DevSync.svg" height="280" style="border-radius: 15px;" alt="DevSync Preview" />
       <br/><br/>
       <a href="https://github.com/DevEslam1/DevSync">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -197,7 +197,7 @@ Git & CI/CD     ███████████████░░░░░░ 
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
-      <img src="./new/E-Commerce%20App.svg" height="280" style="border-radius: 15px;" alt="E-Commerce App Preview" />
+      <img src="./assets/E-Commerce%20App.svg" height="280" style="border-radius: 15px;" alt="E-Commerce App Preview" />
       <br/><br/>
       <a href="https://github.com/DevEslam1/ecommerce_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
@@ -252,7 +252,7 @@ Git & CI/CD     ███████████████░░░░░░ 
 | **Getting Started with Flutter & Dart**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Jan 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/1COJ0BVSKGQU) |
 | **Meta React Native Specialization: Introduction to Mobile Development**<br/><details><summary>What you'll learn</summary><ul><li>The role of a cross-platform mobile developer</li><li>Creating a simple webpage using HTML5</li><li>Styling a web page using CSS</li><li>Explaining React and React Native</li></ul><summary>Skills gained</summary><ul><li>HTML and CSS</li><li>Mobile Development</li><li>React Native</li><li>Application Development</li><li>Web Development</li><li>Browser Compatibility</li><li>Web Design and Development</li><li>Cross Platform Development</li><li>Javascript</li><li>Responsive Web Design</li></ul></details>                                                                                                                                                                                         | Mar 2026 |     [Verify](https://coursera.org/share/4b72cf9201759994cf04391571118aab)      |
 | **Meta React Native Specialization: Programming with JavaScript**<br/><details><summary>What you'll learn</summary><ul><li>Creating simple JavaScript codes</li><li>Creating and manipulating objects and arrays</li><li>Writing unit tests using Jest</li></ul><summary>Skills gained</summary><ul><li>Javascript</li><li>JSON</li><li>Object Oriented Programming (OOP)</li><li>Node.JS</li><li>Unit Testing</li><li>Jest (JavaScript Testing Framework)</li><li>Package and Software Management</li><li>Computer Programming</li><li>Functional Design</li><li>Scripting</li><li>Program Development</li><li>Test Case</li><li>Scripting Languages</li><li>Debugging</li><li>Front-End Web Development</li><li>Data Structures</li><li>Programming Principles</li><li>Web Development Tools</li><li>Event-Driven Programming</li></ul></details> | Mar 2026 |     [Verify](https://coursera.org/share/4d71a11bdb6c035b8f7982b2e7ed94f5)      |
-| **Meta React Native Specialization: React Native** | Mar 2026 | 🔄 In Progress |
+| **Meta React Native Specialization: React Native**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Mar 2026 |                                 🔄 In Progress                                 |
 | **Succeed in the Age of AI**<br/><details><summary>What you'll learn</summary><ul><li>Use AI tools confidently to accelerate everyday tasks</li><li>Master practical AI workflows</li><li>Write better code with AI assistance</li><li>Design effective prompts</li><li>Build an AI-augmented learning system</li><li>Automate repetitive tasks</li><li>Improve decision-making with AI</li><li>Develop a personal AI workflow</li></ul></details>                                                                                                                                                                                                                                                                                                                                                                                                  | Feb 2026 |                                   [Upcoming]                                   |
 
 </details>

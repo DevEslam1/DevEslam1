@@ -125,7 +125,7 @@ Git & CI/CD     ███████████████░░░░░░ 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://play-lh.googleusercontent.com/_kzAybissNo6Fgdf2d4gkyAIbSLD3A5Y3TaQyxa8cNIfWoyIbWTA6wkN6s7q2e-fdlOj=w1052-h592-rw" height="280" style="border-radius: 15px;" alt="Maysur Feature Graphic" />
+      <img src="./new/Maysur.svg" height="280" style="border-radius: 15px;" alt="Maysur Preview" />
     </td>
     <td width="50%" align="left">
       <h3>🛍️ Maysur</h3>
@@ -139,7 +139,7 @@ Git & CI/CD     ███████████████░░░░░░ 
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/de/54/52de54df-c621-633d-c82b-e8884d204f17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-31_at_19.17.45.png/460x996bb.webp" height="280" style="border-radius: 15px;" alt="Free Zone Screenshot" />
+      <img src="./new/freezone.svg" height="280" style="border-radius: 15px;" alt="Free Zone Preview" />
     </td>
     <td width="50%" align="left">
       <h3>🌐 Free Zone</h3>
@@ -166,7 +166,8 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>✨ NovaStore</h3>
       <p>Premium e-commerce app with Clean Architecture, Glassmorphism design system, Material 3 theming, and full Firebase backend.</p>
       <p><strong>Tech Stack:</strong> Flutter, Dart, Firebase, BLoC</p>
-      <br/>
+      <img src="./new/novastore.svg" height="280" style="border-radius: 15px;" alt="NovaStore Preview" />
+      <br/><br/>
       <a href="https://github.com/DevEslam1/NovaStore">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
@@ -175,7 +176,8 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>🎵 BeatFlow</h3>
       <p>Advanced music player with Deezer API streaming, local audio scanning, background playback & lock screen controls.</p>
       <p><strong>Tech Stack:</strong> React Native, Expo, Context API</p>
-      <br/>
+      <img src="./new/Beatflow.svg" height="280" style="border-radius: 15px;" alt="BeatFlow Preview" />
+      <br/><br/>
       <a href="https://github.com/DevEslam1/BeatFlow_Music">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
@@ -186,7 +188,8 @@ Git & CI/CD     ███████████████░░░░░░ 
       <h3>🔄 DevSync</h3>
       <p>Team collaboration platform with interactive dashboards, Agile Kanban boards, and real-time team chat.</p>
       <p><strong>Tech Stack:</strong> Flutter, Firebase, BLoC, Clean Architecture</p>
-      <br/>
+      <img src="./new/DevSync.svg" height="280" style="border-radius: 15px;" alt="DevSync Preview" />
+      <br/><br/>
       <a href="https://github.com/DevEslam1/DevSync">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
       </a>
@@ -194,7 +197,7 @@ Git & CI/CD     ███████████████░░░░░░ 
     <td width="50%" align="center">
       <h3>🛒 E-Commerce App</h3>
       <p>Feature-rich e-commerce app with Clean Architecture & Provider.</p>
-      <img src="https://github.com/user-attachments/assets/39d9432e-8451-4f0e-9a2e-b6dc4bee397f" height="280" style="border-radius: 15px;" alt="Light Mode Screenshot"/>
+      <img src="./new/E-Commerce%20App.svg" height="280" style="border-radius: 15px;" alt="E-Commerce App Preview" />
       <br/><br/>
       <a href="https://github.com/DevEslam1/ecommerce_app">
         <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
